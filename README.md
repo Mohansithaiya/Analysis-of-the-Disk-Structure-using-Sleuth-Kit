@@ -1,4 +1,4 @@
-![Screenshot 2025-04-23 092611](https://github.com/user-attachments/assets/e771db29-db3a-4045-b116-594ea8cc974a)# Analysis-of-the-Disk-Structure-using-Sleuth-Kit
+# Analysis-of-the-Disk-Structure-using-Sleuth-Kit
 
 # NAME: MOHAN S
 # REGISTER NUMBER: 212223240094
